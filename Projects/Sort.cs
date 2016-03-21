@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace Sort
 {
-    class Program
+   public static class Program
     {
         static int index = 0;
 
