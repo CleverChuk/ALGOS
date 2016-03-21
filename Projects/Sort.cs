@@ -86,6 +86,12 @@ namespace Sort
         {
             return seq;
         }
+        
+        
+        public static List<int> convertAll(int[] seq)
+        {
+            return seq.ToList();
+        }
     }
 
 }
