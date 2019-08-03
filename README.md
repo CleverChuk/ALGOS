@@ -1,2 +1,2 @@
 # ALGOS
-[pdf](https://info.lightbend.com/rs/558-NCX-702/images/ebook-reactive-microservices-the-evolution-of-microservices-at-scale-2.pdf)
+
